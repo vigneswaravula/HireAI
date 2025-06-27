@@ -68,7 +68,6 @@ HireAI is a full-stack, AI-powered recruitment platform designed to streamline a
 
 
 ### 🔹 Home Overview
-### 🔹 Home Overview
 <img src="./screenshots/home.png" width="100%" alt="Home" />
 <img src="./screenshots/companies.png" width="100%" alt="Companies" />
 <img src="./screenshots/jobs.png" width="100%" alt="Jobs" />
@@ -78,9 +77,65 @@ HireAI is a full-stack, AI-powered recruitment platform designed to streamline a
 
 
 
-### 🔹 Dashboard Overview
+### 🔹Admin Dashboard
+<img src="./screenshots/admin/admin-login.png" width="100%" />
+<img src="./screenshots/admin/admin.png" width="100%" />
+<img src="./screenshots/admin/Screenshot 2025-06-27 at 13.27.57.png" width="100%" />
+<img src="./screenshots/admin/Screenshot 2025-06-27 at 13.28.05.png" width="100%" />
+<img src="./screenshots/admin/Screenshot 2025-06-27 at 13.28.09.png" width="100%" />
+<img src="./screenshots/admin/Screenshot 2025-06-27 at 13.28.14.png" width="100%" />
+<img src="./screenshots/admin/Screenshot 2025-06-27 at 13.28.17.png" width="100%" />
+<img src="./screenshots/admin/Screenshot 2025-06-27 at 13.28.34.png" width="100%" />
+<img src="./screenshots/admin/Screenshot 2025-06-27 at 13.28.48.png" width="100%" />
+<img src="./screenshots/admin/Screenshot 2025-06-27 at 13.28.52.png" width="100%" />
+<img src="./screenshots/admin/Screenshot 2025-06-27 at 13.29.11.png" width="100%" />
 
-### 🔹 Job Management Panel
+
+
+### 🔹 Job Seeker Dashboard
+
+<img src="./screenshots/jobseeker/1.png" width="100%" />
+<img src="./screenshots/jobseeker/2.png" width="100%" />
+<img src="./screenshots/jobseeker/3.png" width="100%" />
+<img src="./screenshots/jobseeker/4.png" width="100%" />
+<img src="./screenshots/jobseeker/5.png" width="100%" />
+<img src="./screenshots/jobseeker/6.png" width="100%" />
+<img src="./screenshots/jobseeker/7.png" width="100%" />
+<img src="./screenshots/jobseeker/8.png" width="100%" />
+<img src="./screenshots/jobseeker/9.png" width="100%" />
+<img src="./screenshots/jobseeker/10.png" width="100%" />
+<img src="./screenshots/jobseeker/11.png" width="100%" />
+<img src="./screenshots/jobseeker/12.png" width="100%" />
+<img src="./screenshots/jobseeker/13.png" width="100%" />
+<img src="./screenshots/jobseeker/14.png" width="100%" />
+<img src="./screenshots/jobseeker/15.png" width="100%" />
+<img src="./screenshots/jobseeker/16.png" width="100%" />
+<img src="./screenshots/jobseeker/17.png" width="100%" />
+<img src="./screenshots/jobseeker/18.png" width="100%" />
+<img src="./screenshots/jobseeker/19.png" width="100%" />
+<img src="./screenshots/jobseeker/20.png" width="100%" />
+<img src="./screenshots/jobseeker/21.png" width="100%" />
+<img src="./screenshots/jobseeker/22.png" width="100%" />
+<img src="./screenshots/jobseeker/23.png" width="100%" />
+<img src="./screenshots/jobseeker/24.png" width="100%" />
+<img src="./screenshots/jobseeker/25.png" width="100%" />
+<img src="./screenshots/jobseeker/26.png" width="100%" />
+<img src="./screenshots/jobseeker/27.png" width="100%" />
+<img src="./screenshots/jobseeker/28.png" width="100%" />
+<img src="./screenshots/jobseeker/29.png" width="100%" />
+<img src="./screenshots/jobseeker/30.png" width="100%" />
+<img src="./screenshots/jobseeker/31.png" width="100%" />
+<img src="./screenshots/jobseeker/32.png" width="100%" />
+<img src="./screenshots/jobseeker/33.png" width="100%" />
+<img src="./screenshots/jobseeker/34.png" width="100%" />
+<img src="./screenshots/jobseeker/35.png" width="100%" />
+<img src="./screenshots/jobseeker/36.png" width="100%" />
+<img src="./screenshots/jobseeker/37.png" width="100%" />
+<img src="./screenshots/jobseeker/38.png" width="100%" />
+<img src="./screenshots/jobseeker/39.png" width="100%" />
+<img src="./screenshots/jobseeker/40.png" width="100%" />
+<img src="./screenshots/jobseeker/41.png" width="100%" />
+<img src="./screenshots/jobseeker/42.png" width="100%" />
 
 
 ### 🔹 Candidate Profile Page
