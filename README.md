@@ -64,13 +64,25 @@ HireAI is a full-stack, AI-powered recruitment platform designed to streamline a
 
 ## 📸 Screenshots
 
-> _Add these if available:_
-- Admin Dashboard
-- JobSeeker Panel
-- Employer Panel
-- AI Resume Parser
-- AI Interview Coach
-- Analytics Dashboard
+## 🖥️ Screenshots
+
+
+### 🔹 Home Overview
+<img width="1469" alt="Image" src="/Users/vigneswaravula/Downloads/HireAI/screenshots/home.png" />
+<img width="1469" alt="Image" src="/Users/vigneswaravula/Downloads/HireAI/screenshots/companies.png" />
+<img width="1469" alt="Image" src="/Users/vigneswaravula/Downloads/HireAI/screenshots/jobs.png" />
+<img width="1469" alt="Image" src="/Users/vigneswaravula/Downloads/HireAI/screenshots/about.png" />
+<img width="1469" alt="Image" src="/Users/vigneswaravula/Downloads/HireAI/screenshots/footer.png" /
+
+
+
+### 🔹 Dashboard Overview
+
+### 🔹 Job Management Panel
+
+
+### 🔹 Candidate Profile Page
+
 
 ---
 
