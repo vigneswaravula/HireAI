@@ -122,6 +122,11 @@ HireAI is a full-stack, AI-powered recruitment platform designed to streamline a
 <img src="./screenshots/jobseeker/26.png" width="100%" />
 <img src="./screenshots/jobseeker/27.png" width="100%" />
 <img src="./screenshots/jobseeker/28.png" width="100%" />
+
+
+
+### 🔹 Employer or Company Dashnoard
+
 <img src="./screenshots/jobseeker/29.png" width="100%" />
 <img src="./screenshots/jobseeker/30.png" width="100%" />
 <img src="./screenshots/jobseeker/31.png" width="100%" />
@@ -136,9 +141,6 @@ HireAI is a full-stack, AI-powered recruitment platform designed to streamline a
 <img src="./screenshots/jobseeker/40.png" width="100%" />
 <img src="./screenshots/jobseeker/41.png" width="100%" />
 <img src="./screenshots/jobseeker/42.png" width="100%" />
-
-
-### 🔹 Candidate Profile Page
 
 
 ---
